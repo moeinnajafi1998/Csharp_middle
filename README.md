@@ -2,7 +2,8 @@
 
 Intermediate Level:
 
-Inheritance and Polymorphism:
+Continuation of OOP:
+ - Constructor
  - Inheriting from a base class.
  - Method overriding.
  - Polymorphism.
