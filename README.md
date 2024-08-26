@@ -4,9 +4,10 @@ Intermediate Level:
 
 Continuation of OOP:
  - Constructor
- - Inheriting from a base class.
+ - this, base keywords.
  - Method overriding.
- - Polymorphism.
+ - Access modifires.
+ - static keyword.
    
 Interfaces and Abstract Classes:
   - Defining interfaces.
