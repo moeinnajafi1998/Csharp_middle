@@ -8,6 +8,7 @@ Continuation of OOP:
  - Method overriding.
  - Access modifires.
  - static keyword.
+ - Casting and type conversions
    
 Interfaces and Abstract Classes:
   - Defining interfaces.
