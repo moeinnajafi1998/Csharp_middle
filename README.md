@@ -11,9 +11,8 @@ Continuation of OOP:
  - Casting and type conversions
    
 Interfaces and Abstract Classes:
-  - Defining interfaces.
-  - Implementing interfaces.
   - Abstract classes and methods.
+  - interfaces.
 
 Generics:
   - Introduction to generics.
