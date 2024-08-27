@@ -14,11 +14,6 @@ Interfaces and Abstract Classes:
   - Abstract classes and methods.
   - interfaces.
 
-Generics:
-  - Introduction to generics.
-  - Generic classes and methods.
-  - Constraints on generics.
-
 LINQ (Language Integrated Query):
   - Querying collections using LINQ.
   - LINQ operators (Where, Select, OrderBy, etc.).
