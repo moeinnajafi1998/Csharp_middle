@@ -12,8 +12,7 @@ Continuation of OOP:
    
 Interfaces and Abstract Classes:
   - Abstract classes and methods.
-  - Defining interfaces.
-  - Implementing interfaces.
+  - interfaces.
 
 Generics:
   - Introduction to generics.
