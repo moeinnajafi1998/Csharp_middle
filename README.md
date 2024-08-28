@@ -26,3 +26,7 @@ Delegates and Events:
   - Defining and using delegates.
   - Understanding events.
   - Event handlers.
+
+Other tips:
+ - StringBuilder
+ - 
