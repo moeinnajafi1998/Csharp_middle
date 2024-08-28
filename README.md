@@ -29,4 +29,5 @@ Delegates and Events:
 
 Other tips:
  - StringBuilder
- - 
+ - Lambda expressions
+ - Anonymous methods
